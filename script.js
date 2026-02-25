@@ -6,38 +6,54 @@ const data = {
       { title: "Final Exam Paper", year: "2024", file: "pdfs/english-2024.pdf" },
       { title: "Pre-Board Paper", year: "2023", file: "pdfs/english-2023.pdf" }
     ],
-    "Sample Papers": [
-      { title: "Sample Paper 1", year: "2025", file: "pdfs/english-sample-1.pdf" }
+   "Practice Paper": [
+      { title: "Practice Paper 1", year: "2025", file: "9_english_2025_pp_english_annual.pdf" }
+    ],
+    "Notes": [
+      { title: "Poetry Notes", year: "2025", file: "pdfs/english-notes.pdf" }
+   
+  },
+
+  Science: {
+    "Previous Year Questions": [
+      { title: "Final Exam Paper", year: "2024", file: "pdfs/english-2024.pdf" },
+      { title: "Pre-Board Paper", year: "2023", file: "pdfs/english-2023.pdf" }
+    ],
+    "Practice Paper": [
+      { title: "Practice Paper 1", year: "2025", file: "9_science_2025_pp_english_annual.pdf
+" }
     ],
     "Notes": [
       { title: "Poetry Notes", year: "2025", file: "pdfs/english-notes.pdf" }
     ]
   },
 
-  Hindi: {
-    "Previous Year Questions": [],
-    "Sample Papers": [],
-    "Notes": []
-  },
-
-  Science: {
-    "Previous Year Questions": [],
-    "Sample Papers": [],
-    "Notes": []
-  },
-
   Mathematics: {
-    "Previous Year Questions": [],
-    "Sample Papers": [],
-    "Notes": []
+    "Previous Year Questions": [
+      { title: "Final Exam Paper", year: "2024", file: "pdfs/english-2024.pdf" },
+      { title: "Pre-Board Paper", year: "2023", file: "pdfs/english-2023.pdf" }
+    ],
+   "Practice Paper": [
+      { title: "Practice Paper 1", year: "2025", file: "9_math_2025_pp_english_annual.pdf
+" }
+    ],
+    "Notes": [
+      { title: "Poetry Notes", year: "2025", file: "pdfs/english-notes.pdf" }
+    ]
   },
-
   "Social Science": {
-    "Previous Year Questions": [],
-    "Sample Papers": [],
-    "Notes": []
-  }
-};
+   "Previous Year Questions": [
+      { title: "Final Exam Paper", year: "2024", file: "pdfs/english-2024.pdf" },
+      { title: "Pre-Board Paper", year: "2023", file: "pdfs/english-2023.pdf" }
+    ],
+    "Practice Paper": [
+      { title: "Practice Paper 1", year: "2025", file: "9_socialscience_2025_pp_english_annual.pdf
+" }
+    ],
+    "Notes": [
+      { title: "Poetry Notes", year: "2025", file: "pdfs/english-notes.pdf" }
+    ]
+  },
 
 // ===== GLOBAL STATE =====
 
